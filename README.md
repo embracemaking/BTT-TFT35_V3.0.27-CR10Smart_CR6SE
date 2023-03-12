@@ -3,7 +3,7 @@ Repository for BTT TFT35 firmware for Embrace Making CR10 Smart and CR-6 SE upgr
 
 <insert link>
 
-! PLEASE READ !
+<strong>! PLEASE READ !<strong>
 
 These files are from BTT firmware TFT35_V3.0.27 This is release xx.27 from Big Tree Tech. These config and bin files SHOULD ONLY BE USED WITH THE CORRECT MODEL TOUCH SCREEN. PLEASE MAKE SURE YOU ARE USING THE TFT35 V3.0 TOUCH SCREEN. THIS IS NOT THE E3 VERSION AND IT IS NOT THE B1 VERSION!
 
