@@ -3,7 +3,13 @@ Repository for BTT TFT35 firmware for Embrace Making CR10 Smart and CR-6 SE upgr
 
 <insert link>
 
-<strong>! PLEASE READ !<strong>
+The 3D printable files to fit the screen to the CR10 Smart can be found here:
+
+
+The 3D printable files to fit the screen to the CR-6 SE can be found here:
+
+
+## **! PLEASE READ !**
 
 These files are from BTT firmware TFT35_V3.0.27 This is release xx.27 from Big Tree Tech. These config and bin files SHOULD ONLY BE USED WITH THE CORRECT MODEL TOUCH SCREEN. PLEASE MAKE SURE YOU ARE USING THE TFT35 V3.0 TOUCH SCREEN. THIS IS NOT THE E3 VERSION AND IT IS NOT THE B1 VERSION!
 
@@ -16,3 +22,6 @@ Step 4: Insert the SD card into the TFT35 module and power it on. Wait 2-3 mins 
 
 See my videos here for the entire mainboard and screen upgrade:
 
+![Breakout_Render1](https://user-images.githubusercontent.com/109498075/224583184-0bb8151a-3680-42a4-bcc2-7355593700b0.JPG)
+
+![AUX-BOARD_Render2](https://user-images.githubusercontent.com/109498075/224583201-adb482dd-7fab-422b-b6c1-a3909e319aaf.JPG)
