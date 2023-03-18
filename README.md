@@ -5,6 +5,7 @@ Repository for BTT TFT35 firmware for Embrace Making CR10 Smart and CR-6 SE upgr
 
 The 3D printable files to fit the screen to the CR10 Smart can be found here:
 
+* https://www.printables.com/model/422494-cr10-smart-x-skr-mini-e3-v3-mounts-and-btt-tft35-v
 
 The 3D printable files to fit the screen to the CR-6 SE can be found here:
 
