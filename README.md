@@ -30,7 +30,6 @@ Step 3: Get 8GB SD card and format it clean. Copy the files onto the SD card. Yo
   
 Step 4: Insert the SD card into the TFT35 module and power it on. Wait 2-3 mins for the firmware update to complete
 
-See my videos here for the entire mainboard and screen upgrade:
 
 ![CR10-TFT35_Render_1](https://user-images.githubusercontent.com/109498075/226090623-d54ed257-ef14-4f00-a1ee-64220937d80b.JPG)
 
