@@ -1,7 +1,7 @@
 # BTT-TFT35_V3.0.27-CR10Smart_CR6SE
 Repository for BTT TFT35 firmware for Embrace Making CR10 Smart and CR-6 SE upgrade in combination with SKR MINI E3 V3. Mainboard upgrade made easy using the Embrace Making Easy Swap PCB kit for these machines. You can find those PCBs here:
 
-<insert link>
+https://embracemaking.com/products/cr10-smart-cr6-se-mainboard-easy-swap-pcb-kit
 
 The 3D printable files to fit the screen to the CR10 Smart can be found here:
 
