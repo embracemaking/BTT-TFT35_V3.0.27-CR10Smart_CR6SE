@@ -32,6 +32,11 @@ Step 4: Insert the SD card into the TFT35 module and power it on. Wait 2-3 mins 
 
 See my videos here for the entire mainboard and screen upgrade:
 
-![Breakout_Render1](https://user-images.githubusercontent.com/109498075/224583184-0bb8151a-3680-42a4-bcc2-7355593700b0.JPG)
+![CR10-TFT35_Render_1](https://user-images.githubusercontent.com/109498075/226090623-d54ed257-ef14-4f00-a1ee-64220937d80b.JPG)
 
-![AUX-BOARD_Render2](https://user-images.githubusercontent.com/109498075/224583201-adb482dd-7fab-422b-b6c1-a3909e319aaf.JPG)
+
+![CR10-TFT35_Render_2](https://user-images.githubusercontent.com/109498075/226090625-0ec53660-b87e-4811-9f0d-b728835688a0.JPG)
+
+
+![CR10-TFT35_Render_3](https://user-images.githubusercontent.com/109498075/226090628-21395d5e-e63d-413a-be83-953805026ec5.JPG)
+
