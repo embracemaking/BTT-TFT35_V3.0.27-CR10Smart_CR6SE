@@ -9,12 +9,15 @@ The 3D printable files to fit the screen to the CR10 Smart can be found here:
 
 The 3D printable files to fit the screen to the CR-6 SE can be found here:
 
-* https://www.printables.com/model/422494-cr10-smart-x-skr-mini-e3-v3-mounts-and-btt-tft35-v
+* https://www.printables.com/model/490418-cr-6-se-x-skr-mini-e3-v3-mounts-and-btt-tft35-v3-c
 
 Video showing installation on CR10 Smart:
 
 * https://youtu.be/vo5xYLcvk2w
 
+Video showing installation on the CR-6 SE:
+
+* https://youtu.be/pSN8kqPHHuU
 
 ## **! PLEASE READ !**
 
